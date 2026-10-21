@@ -1,0 +1,1 @@
+{"description":"Marquee case-insensitive redirect layer with per-hit stats","engines":{"node":">=18"},"name":"marquee-redirect","private":true,"scripts":{"start":"node app.js"},"version":"1.0.0"}
