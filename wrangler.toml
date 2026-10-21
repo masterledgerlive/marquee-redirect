@@ -1,0 +1,10 @@
+name = "marquee-redirect"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+workers_dev = true
+
+# Optional durable stats: create with `wrangler kv namespace create STATS`
+# then uncomment and paste the id.
+# [[kv_namespaces]]
+# binding = "STATS"
+# id = "<kv-namespace-id>"
